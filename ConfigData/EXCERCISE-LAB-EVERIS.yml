@@ -1,1 +1,5 @@
 name: mario
+person:
+  name: Mario
+  surname: Gómez
+  dni: 75724171
