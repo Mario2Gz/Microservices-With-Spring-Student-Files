@@ -1,5 +1,5 @@
 list:
-  personList:
+  personas:
     -
       name: Mario
       surname: Gomez
