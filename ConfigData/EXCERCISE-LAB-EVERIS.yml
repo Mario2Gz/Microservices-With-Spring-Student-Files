@@ -1,1 +1,10 @@
-list: person
+list:
+  person:
+    -
+      name: Mario
+      surname: Gomez
+      dni: 75724171
+     -
+      name: Ruben
+      surname: Gomez
+      dni: 75724172
